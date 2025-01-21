@@ -1,2 +1,2 @@
-# UrnaDePolyaSimulacion
-Usando la construccion de De Finetti simulamos la urna de Polya y mostramos algunos resultados importantes
+# Simulacion de la Urna de Polya 
+Usando la construccion de De Finetti simulamos la urna de Polya y mostramos algunos resultados importantes. La simulacion es llevada al cabo usando solamente simulacion de variables aleatorias uniformes (por su calidad de simulacion pseudoaleatoria) y usando Teoria de Probabilidades las usamos para construir las variables aleaotrias necesarias para la simulacion que queremos llevar al cabo. Los resultados teorico necesarios estan explicados junto al codigo que los implementa en el notebook.
